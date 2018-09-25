@@ -1,5 +1,8 @@
 _repo: Keys-to-Fungi-on-Dung_57291
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 57291-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Richardson, Mike
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '49300'
     url: http://www.gutenberg.org/2009/agents/49300
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57291#Keys-to-Fungi-on-Dung
 gutenberg_issued: '2018-06-08'
 gutenberg_type: Text
 identifiers:
